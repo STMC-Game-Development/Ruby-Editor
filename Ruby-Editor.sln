@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ruby-Editor", "Ruby-Editor\Ruby-Editor.csproj", "{103EB5DE-EBE2-4BE1-8D48-22AC23A715F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{103EB5DE-EBE2-4BE1-8D48-22AC23A715F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103EB5DE-EBE2-4BE1-8D48-22AC23A715F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103EB5DE-EBE2-4BE1-8D48-22AC23A715F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103EB5DE-EBE2-4BE1-8D48-22AC23A715F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBDC7DBB-69C0-410F-8107-042342DC3B4D}
+	EndGlobalSection
+EndGlobal

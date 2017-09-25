@@ -1,0 +1,15 @@
+c:\users\philip\documents\visual studio 2017\Projects\Ruby-Editor\Ruby-Editor\bin\Debug\Ruby-Editor.exe.config
+c:\users\philip\documents\visual studio 2017\Projects\Ruby-Editor\Ruby-Editor\bin\Debug\Ruby-Editor.exe
+c:\users\philip\documents\visual studio 2017\Projects\Ruby-Editor\Ruby-Editor\bin\Debug\Ruby-Editor.pdb
+c:\users\philip\documents\visual studio 2017\Projects\Ruby-Editor\Ruby-Editor\obj\Debug\Ruby-Editor.csprojResolveAssemblyReference.cache
+c:\users\philip\documents\visual studio 2017\Projects\Ruby-Editor\Ruby-Editor\obj\Debug\MainWindow.g.cs
+c:\users\philip\documents\visual studio 2017\Projects\Ruby-Editor\Ruby-Editor\obj\Debug\App.g.cs
+c:\users\philip\documents\visual studio 2017\Projects\Ruby-Editor\Ruby-Editor\obj\Debug\Ruby-Editor_MarkupCompile.cache
+c:\users\philip\documents\visual studio 2017\Projects\Ruby-Editor\Ruby-Editor\obj\Debug\Ruby-Editor_MarkupCompile.lref
+c:\users\philip\documents\visual studio 2017\Projects\Ruby-Editor\Ruby-Editor\obj\Debug\MainWindow.baml
+c:\users\philip\documents\visual studio 2017\Projects\Ruby-Editor\Ruby-Editor\obj\Debug\Ruby-Editor.g.resources
+c:\users\philip\documents\visual studio 2017\Projects\Ruby-Editor\Ruby-Editor\obj\Debug\Ruby_Editor.Properties.Resources.resources
+c:\users\philip\documents\visual studio 2017\Projects\Ruby-Editor\Ruby-Editor\obj\Debug\Ruby-Editor.csproj.GenerateResource.Cache
+c:\users\philip\documents\visual studio 2017\Projects\Ruby-Editor\Ruby-Editor\obj\Debug\Ruby-Editor.csproj.CoreCompileInputs.cache
+c:\users\philip\documents\visual studio 2017\Projects\Ruby-Editor\Ruby-Editor\obj\Debug\Ruby-Editor.exe
+c:\users\philip\documents\visual studio 2017\Projects\Ruby-Editor\Ruby-Editor\obj\Debug\Ruby-Editor.pdb
